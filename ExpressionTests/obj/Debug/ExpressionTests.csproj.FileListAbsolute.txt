@@ -1,0 +1,6 @@
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\bin\Debug\ExpressionTests.exe.config
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\obj\Debug\ExpressionTests.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\bin\Debug\ExpressionTests.exe
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\bin\Debug\ExpressionTests.pdb
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\obj\Debug\ExpressionTests.exe
+C:\Users\Dave\Documents\sandboxes\git\ExpressionTests\ExpressionTests\obj\Debug\ExpressionTests.pdb
